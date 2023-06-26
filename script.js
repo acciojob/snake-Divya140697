@@ -1,4 +1,3 @@
-//your code here
 document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('gameContainer');
   const scoreElement = document.getElementById('score');
